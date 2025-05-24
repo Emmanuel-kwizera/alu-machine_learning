@@ -4,6 +4,7 @@
 """
 import numpy as np
 
+
 def np_cat(mat1, mat2, axis=0):
     """
     Return the concatenation of two numpy matrices.
